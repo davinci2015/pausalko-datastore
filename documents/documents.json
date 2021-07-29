@@ -1,6 +1,14 @@
 {
   "documents": [
     {
+      "name": "Popis vezanih i povlaštenih obrta",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/popis_vezanih_i_povlastenih_obrta.pdf"
+    },
+    {
+      "name": "Uputa o popunjavanju PO-SD i PO-SD-Z obrasca",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/uputa_o_utvrdivanju_godisnjeg_poreza_i_prireza.pdf"
+    },
+    {
       "name": "Poslovanje s inozemstvom",
       "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/poslovanje_s_inozemstvom.pdf"
     },
