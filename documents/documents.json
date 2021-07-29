@@ -1,12 +1,12 @@
 {
-    "documents": [
-        {
-            "name": "Poslovanje s inozemstvom",
-            "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/poslovanje_s_inozemstvom.pdf.pdf"
-        },
-        {
-            "name": "NKD s objašnjenjima",
-            "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/nkd2007_s_objasnjenjima.pdf"
-        }
-    ]
+  "documents": [
+    {
+      "name": "Poslovanje s inozemstvom",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/poslovanje_s_inozemstvom.pdf"
+    },
+    {
+      "name": "NKD s objašnjenjima",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/nkd2007_s_objasnjenjima.pdf"
+    }
+  ]
 }
