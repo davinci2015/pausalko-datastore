@@ -1,6 +1,10 @@
 {
   "documents": [
     {
+      "name": "Obrt uz paušalno oporezivanje",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/obrt_uz_pausalno_oporezivanje.pdf"
+    },
+    {
       "name": "Popis vezanih i povlaštenih obrta",
       "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/popis_vezanih_i_povlastenih_obrta.pdf"
     },
