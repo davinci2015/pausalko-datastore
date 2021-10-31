@@ -2,31 +2,38 @@
   "documents": [
     {
       "name": "Obrt uz paušalno oporezivanje",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/obrt_uz_pausalno_oporezivanje.pdf"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/obrt_uz_pausalno_oporezivanje.pdf",
+      "category": "other"
     },
     {
       "name": "Popis vezanih i povlaštenih obrta",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/popis_vezanih_i_povlastenih_obrta.pdf"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/popis_vezanih_i_povlastenih_obrta.pdf",
+      "category": "other"
     },
     {
       "name": "Uputa o popunjavanju PO-SD i PO-SD-Z obrasca",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/uputa_o_utvrdivanju_godisnjeg_poreza_i_prireza.pdf"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/uputa_o_utvrdivanju_godisnjeg_poreza_i_prireza.pdf",
+      "category": "instructions"
     },
     {
       "name": "Predložak računa (domaći kupac)",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_domaci_klijent.docx"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_domaci_klijent.docx",
+      "category": "templates"
     },
     {
       "name": "Predložak računa (inozemni kupac unutar EU)",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_inozemni_klijent_unutar_eu.docx"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_inozemni_klijent_unutar_eu.docx",
+      "category": "templates"
     },
     {
       "name": "Poslovanje s inozemstvom",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/poslovanje_s_inozemstvom.pdf"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/poslovanje_s_inozemstvom.pdf",
+      "category": "other"
     },
     {
       "name": "NKD s objašnjenjima",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/nkd2007_s_objasnjenjima.pdf"
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/nkd2007_s_objasnjenjima.pdf",
+      "category": "other"
     }
   ]
 }
