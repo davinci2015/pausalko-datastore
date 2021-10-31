@@ -17,7 +17,11 @@
       "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/primjer_inozemnog_racuna_unutar_eu.pdf"
     },
     {
-      "name": "Predložak inozemnog računa (unutar EU)",
+      "name": "Predložak računa (domaći kupac)",
+      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_domaci_klijent.docx"
+    },
+    {
+      "name": "Predložak računa (inozemni kupac unutar EU)",
       "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/predlozak_racuna_inozemni_klijent_unutar_eu.docx"
     },
     {
