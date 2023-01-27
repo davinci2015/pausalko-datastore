@@ -1,0 +1,70 @@
+{
+  "zdravstveno_osiguranje": {
+    "id": "zdravstveno_osiguranje",
+    "title": "Doprinosi",
+    "description": "Obvezno zdravstveno osiguranje",
+    "dueDate": "fifteenth_of_month",
+    "iban": "HR6510010051550100001",
+    "model": "HR68",
+    "referenceNumber": "8478-OIB",
+    "price": {
+      "2021": 605.95,
+      "2022": 629.44,
+      "2023": 679.87
+    }
+  },
+  "mirovinsko_osiguranje_obavezno": {
+    "id": "mirovinsko_osiguranje_obavezno",
+    "title": "Doprinosi",
+    "description": "Mirovinsko osiguranje",
+    "dueDate": "fifteenth_of_month",
+    "iban": "HR1210010051863000160",
+    "model": "HR68",
+    "referenceNumber": "8214-OIB",
+    "price": {
+      "2021": 550.86,
+      "2022": 572.22,
+      "2023": 618.06
+    }
+  },
+  "mirovinsko_osiguranje_drugi_stup": {
+    "id": "mirovinsko_osiguranje_drugi_stup",
+    "title": "Doprinosi",
+    "description": "Mirovinsko osiguranje za starost na temelju ind. kapit. štednje",
+    "dueDate": "fifteenth_of_month",
+    "iban": "HR7610010051700036001",
+    "model": "HR68",
+    "referenceNumber": "2046-OIB",
+    "price": {
+      "2021": 183.62,
+      "2022": 190.74,
+      "2023": 206.02
+    }
+  },
+  "porez_prirez": {
+    "id": "porez",
+    "title": "Porez i prirez",
+    "description": "Paušalni porez i prirez na dohodak",
+    "dueDate": "last_day_of_month",
+    "iban": "HR1110010051713312009",
+    "model": "HR68",
+    "referenceNumber": "1449-OIB"
+  },
+  "komorski_doprinos": {
+    "id": "komorski_doprinos",
+    "title": "Komorski doprinos",
+    "description": "Članarina Hrvatskoj obrtničkoj komori",
+    "dueDate": "last_day_of_month",
+    "price": {
+      "2021": 228,
+      "2022": 228,
+      "2023": 228
+    }
+  },
+  "clanarina_turistickim_zajednicama": {
+    "id": "clanarina_turistickim_zajednicama",
+    "title": "Članarina turističkim zajednicama",
+    "description": "Članarina turističkim zajednicama",
+    "dueDate": "last_day_of_month"
+  }
+}
