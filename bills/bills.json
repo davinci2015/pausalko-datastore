@@ -42,7 +42,7 @@
     }
   },
   "porez_prirez": {
-    "id": "porez",
+    "id": "porez_prirez",
     "title": "Porez i prirez",
     "description": "Paušalni porez i prirez na dohodak",
     "dueDate": "last_day_of_month",
