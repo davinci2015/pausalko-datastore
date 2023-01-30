@@ -763,5 +763,20 @@
     "createdAt": "2023-01-13 08:52:51.663953",
     "updatedAt": "2023-01-13 08:52:51.663953",
     "type": "company"
+  },
+  {
+    "id": 87,
+    "name": "visua_eles",
+    "email": "visua.eles.produkcija@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/visua.eles",
+    "phone": null,
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1675098313/pausalac/visua_eles_-_1x1_logo_-_visua_eles_produkcija_z9f8pe.jpg",
+    "city": "Zagreb",
+    "description": "video produkcija, video rješenja, kreiranje sadržaja za društvene mreže",
+    "highlighted": false,
+    "createdAt": "2023-01-30 17:05:24.166715",
+    "updatedAt": "2023-01-30 17:05:24.166715",
+    "type": "company"
   }
 ]
