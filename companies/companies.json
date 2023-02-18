@@ -1,5 +1,19 @@
 [
   {
+    "id": 88,
+    "name": "Banda Marketing",
+    "email": "dorothea@banda.marketing",
+    "websiteUrl": "https://banda.marketing",
+    "facebookUrl": "https://www.instagram.com/banda.marketing",
+    "phone": "+385911745815",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1676735427/pausalac/20230215_170322_0000_-_Dorothea_Z%CC%8Cajgar_fcecdt.png",
+    "city": "Zagreb | Samobor | Istra",
+    "description": "Ako ne oglašavate, kako očekujete da će itko doći na vaš web ili društvene mreže? Javite se za brendiranje, izradu web stranice, vođenje društvenih mreža te za profesionalno fotografiranje.",
+    "createdAt": "2023-02-18 17:05:24.166715",
+    "updatedAt": "2023-02-18 17:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 87,
     "name": "visua_eles",
     "email": "visua.eles.produkcija@gmail.com",
@@ -9,7 +23,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1675098313/pausalac/visua_eles_-_1x1_logo_-_visua_eles_produkcija_z9f8pe.jpg",
     "city": "Zagreb",
     "description": "video produkcija, video rješenja, kreiranje sadržaja za društvene mreže",
-    "highlighted": false,
     "createdAt": "2023-01-30 17:05:24.166715",
     "updatedAt": "2023-01-30 17:05:24.166715",
     "type": "company"
@@ -24,7 +37,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1673599961/pausalac/IMG_20221122_232112_001_-_Karmen_Fodrek_zwvle7.jpg",
     "city": "Rijeka",
     "description": "Fotografiranje obitelji, trudnica i beba",
-    "highlighted": false,
     "createdAt": "2023-01-13 08:52:51.663953",
     "updatedAt": "2023-01-13 08:52:51.663953",
     "type": "company"
@@ -39,7 +51,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1673380590/pausalac/FB_IMG_1673366021479_-_Nikola_Kurtovic%CC%81_zwygah.jpg",
     "city": "Vukovar i okolica",
     "description": "Najam fotokutije za različite prigode -vjenčanja, krštenja, rođendane, maturalne zabave, domjenke. Ukoliko želite dodatno zabaviti goste i stvoriti posebne uspomene, javite nam se! 📸💫",
-    "highlighted": false,
     "createdAt": "2023-01-10 19:56:40.237623",
     "updatedAt": "2023-01-10 19:56:40.237623",
     "type": "company"
@@ -54,7 +65,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1673088942/pausalac/A2B7AF5A-19E3-4EA1-8510-D7119A6B1FCA_-_Sebastian_Ruz%CC%8Cic%CC%81_g8fdic.jpg",
     "city": "Rijeka",
     "description": "Fizioterapija i masaže u Vašem domu na području Rijeke i okolice",
-    "highlighted": false,
     "createdAt": "2023-01-07 10:55:52.144666",
     "updatedAt": "2023-01-07 10:55:52.144666",
     "type": "company"
@@ -69,7 +79,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1672993384/pausalac/onpoint_tppzja.jpg",
     "city": "Hrvatska",
     "description": "Grafički dizajn i komunikacijske usluge. Radimo personaliziran \"out of the box\" kreativan dizajn i savjetujemo što i kako komunicirati.",
-    "highlighted": false,
     "createdAt": "2023-01-06 08:23:14.964172",
     "updatedAt": "2023-01-06 08:23:14.964172",
     "type": "company"
@@ -84,7 +93,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1672993236/pausalac/matrik_upplbe.jpg",
     "city": "Donja Bistra",
     "description": "Obrt za trgovinu i usluge - poklon galerija",
-    "highlighted": false,
     "createdAt": "2023-01-06 08:19:39.838524",
     "updatedAt": "2023-01-06 08:19:39.838524",
     "type": "company"
@@ -99,7 +107,6 @@
     "logo": null,
     "city": "Karlovac",
     "description": "Knjigovodstvo",
-    "highlighted": false,
     "createdAt": "2022-12-27 08:48:25.494319",
     "updatedAt": "2022-12-27 08:48:25.494319",
     "type": "accountant"
@@ -114,7 +121,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1671530613/pausalac/spotless_jpzn9y.png",
     "city": "Grad Zagreb \nZagrebačka županija\nKrapinsko-Zagorska županija",
     "description": "Dubinsko kemijsko čišćenje tapeciranog i kožnog namještaja uz dezinfekciju",
-    "highlighted": false,
     "createdAt": "2022-12-20 10:04:03.564305",
     "updatedAt": "2022-12-20 10:04:03.564305",
     "type": "company"
@@ -129,7 +135,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1671182603/pausalac/nami-massage_uulhsh.jpg",
     "city": "Zagreb/Trokut",
     "description": null,
-    "highlighted": false,
     "createdAt": "2022-12-16 09:23:32.303457",
     "updatedAt": "2022-12-16 09:23:32.303457",
     "type": "company"
@@ -144,7 +149,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1670151417/pausalac/IVANA_logo_-_Ivana_Dedic%CC%81_rej07j.png",
     "city": "Solin",
     "description": "Kao virtualni asistent pomažem malim poduzetnicima u administraciji i marketingu te fizičkim osobama u organizaciji privatnog života.",
-    "highlighted": false,
     "createdAt": "2022-12-04 10:57:03.241236",
     "updatedAt": "2022-12-04 10:57:03.241236",
     "type": "company"
@@ -159,7 +163,6 @@
     "logo": null,
     "city": "Zagreb",
     "description": "Izrada i dizajn web stranica",
-    "highlighted": false,
     "createdAt": "2022-12-02 15:23:36.315104",
     "updatedAt": "2022-12-02 15:23:36.315104",
     "type": "company"
@@ -174,7 +177,6 @@
     "logo": null,
     "city": "Biograd na Moru",
     "description": "Obrada metala, obrt za popravke i izrada proizvoda od inoxa, pretežno za brodove.",
-    "highlighted": false,
     "createdAt": "2022-12-01 21:43:47.240508",
     "updatedAt": "2022-12-01 21:43:47.240508",
     "type": "company"
@@ -189,7 +191,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1669196502/pausalac/fimelo_l92rqx.jpg",
     "city": "Krapinsko-zagorska županija",
     "description": "Čistimo sve i svašta sa našim profesionalnim dubinskim usisavačima.",
-    "highlighted": false,
     "createdAt": "2022-11-23 09:41:49.760333",
     "updatedAt": "2022-11-23 09:41:49.760333",
     "type": "company"
@@ -204,7 +205,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1667334145/pausalac/IMG_20220907_213947_080_-_No_Name_pnxpiv.jpg",
     "city": "Velika Gorica",
     "description": "Salon za uljepšavanje. Geliranje noktiju, manikura, trajni lak i threading obrva.",
-    "highlighted": false,
     "createdAt": "2022-11-01 20:22:34.989004",
     "updatedAt": "2022-11-01 20:22:34.989004",
     "type": "company"
@@ -219,7 +219,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1666818182/pausalac/Trinity1K_-_Sandra_Kolar_e3dehj.jpg",
     "city": "Novska",
     "description": "Nudimo usluge 3D vizualizacija interijera i eksterijera (kuća, zgrada, stanova, soba, vikendica, restorana, itd.)",
-    "highlighted": false,
     "createdAt": "2022-10-26 21:03:10.369125",
     "updatedAt": "2022-10-26 21:03:10.369125",
     "type": "company"
@@ -234,7 +233,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1664803055/pausalac/k2elektro_ftb3ms.jpg",
     "city": "Poreč ",
     "description": "vl. Kristian Korlević\nRogovići 19a, 52465 Tar",
-    "highlighted": false,
     "createdAt": "2022-10-03 13:17:45.35845",
     "updatedAt": "2022-10-03 13:17:45.35845",
     "type": "company"
@@ -249,7 +247,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1664474243/pausalac/modev_bt2upb.jpg",
     "city": "Hrvatska",
     "description": "Izrada web stranica i trgovina, programiranje, grafički dizajn",
-    "highlighted": false,
     "createdAt": "2022-09-29 17:56:38.100685",
     "updatedAt": "2022-09-29 17:56:38.100685",
     "type": "company"
@@ -264,7 +261,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1663150636/pausalac/SmartSelect_20220914-120653_Drive_-_Cork_Croatia_f7ivtc.jpg",
     "city": "Rogićeva 28, 10020 Zagreb",
     "description": "vl. Ivana Pranjić\nIzrada nakita i suvenira od pluto čepova",
-    "highlighted": false,
     "createdAt": "2022-09-14 10:17:29.290137",
     "updatedAt": "2022-09-14 10:17:29.290137",
     "type": "company"
@@ -279,7 +275,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1663061097/pausalac/85F76277-0F53-4D3B-9993-37D0B2B2D0D2_-_Narta_Trgovina_irm3yz.jpg",
     "city": "Zagreb",
     "description": "E Marketing Dizsjn nudi usluge izrade web stranica, održavanja društvenih mreža, izrada i uređivanje objava za društvene mreže te izrade vizualnih rješenja (logo, vizitke, naljepnice, poklon bonovi, kuponi, posteri…). ",
-    "highlighted": false,
     "createdAt": "2022-09-13 09:25:12.720723",
     "updatedAt": "2022-09-13 09:25:12.720723",
     "type": "company"
@@ -294,7 +289,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1662225079/pausalac/glechudesa_dda5wj.jpg",
     "city": "Osijek",
     "description": "DJ nastupi\nNajam DJ opreme\nMix i mastering",
-    "highlighted": false,
     "createdAt": "2022-09-03 17:08:07.986748",
     "updatedAt": "2022-09-03 17:08:07.986748",
     "type": "company"
@@ -309,7 +303,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1662104517/pausalac/siscia_fh1dpp.jpg",
     "city": "Pula",
     "description": "Siscia knjigovodstvo, EU projekti i poslovno savjetovanje",
-    "highlighted": false,
     "createdAt": "2022-09-02 07:42:08.098613",
     "updatedAt": "2022-09-02 07:42:08.098613",
     "type": "accountant"
@@ -324,7 +317,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1662035792/pausalac/epicadvice_fckxvj.jpg",
     "city": null,
     "description": "Epic Advice bavi se edukacijom djece, mladih i odraslih. Okupili smo tim stručnjaka koji može pomoći u nekoliko različitih područja: instrukcije i pomoć u učenju, lektoriranje, edukacije za tvrtke i organizacije.",
-    "highlighted": false,
     "createdAt": "2022-09-01 12:35:55.744848",
     "updatedAt": "2022-09-01 12:35:55.744848",
     "type": "company"
@@ -339,7 +331,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1661877739/pausalac/finalinfo_tyi0je.jpg",
     "city": "Zagreb, cijela Hrvatska (remote)",
     "description": "Računovodstvo i administracija",
-    "highlighted": false,
     "createdAt": "2022-08-30 16:42:30.796352",
     "updatedAt": "2022-08-30 16:42:30.796352",
     "type": "accountant"
@@ -354,7 +345,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1661759734/pausalac/inspiration4web_ipuq0d.jpg",
     "city": "Dugopolje",
     "description": "Izrada web stranica, grafički dizajn ",
-    "highlighted": false,
     "createdAt": "2022-08-29 07:57:37.275834",
     "updatedAt": "2022-08-29 07:57:37.275834",
     "type": "company"
@@ -369,7 +359,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1661172570/pausalac/d2solutions_w4fkv4.jpg",
     "city": "Zagreb",
     "description": "Izrada web stranica, programiranje, održavanje računalnih i serverskih sustava, poslovna informatička rješenja, smart home, dronovi",
-    "highlighted": false,
     "createdAt": "2022-08-22 12:45:48.80811",
     "updatedAt": "2022-08-22 12:45:48.80811",
     "type": "company"
@@ -384,7 +373,6 @@
     "logo": "",
     "city": "Rijeka / Zagreb",
     "description": "Usluge digitalnog marketinga i izrade kreativnog sadržaja za web platforme (društvene mreže, kampanje, izrada web stranica, video montaža)",
-    "highlighted": false,
     "createdAt": "2022-08-19 11:14:25.47984",
     "updatedAt": "2022-08-19 11:14:25.47984",
     "type": "company"
@@ -399,7 +387,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1660289536/pausalac/webbox_azmj1l.jpg",
     "city": "Hrvatska",
     "description": "Izrada web stranica i web trgovina prilagođenih po mjeri.",
-    "highlighted": false,
     "createdAt": "2022-08-12 07:32:27.177043",
     "updatedAt": "2022-08-12 07:32:27.177043",
     "type": "company"
@@ -414,7 +401,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1660240682/pausalac/nocturno_cduc1v.jpg",
     "city": "Horvatnica 87, 10090 Zagreb",
     "description": "Proizvodnja unikatnog nakita od epoxy smole i maslinova drva",
-    "highlighted": false,
     "createdAt": "2022-08-11 17:58:14.009299",
     "updatedAt": "2022-08-11 17:58:14.009299",
     "type": "company"
@@ -429,7 +415,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1660211536/pausalac/gentle_fc9ydc.png",
     "city": "Slavonski Brod",
     "description": "Trajna šminka obrva (puder, hyperrealism), ekstenzije trepavica, lash lift, brow lift, šminkanje, depilacija lica, korekcija obrva, bojanje obrva, henna brows, dermapen, edukacije (threading, brow lift, škola šminkanja za vizažiste, škola šminkanja za osobne potrebe, henna brows)",
-    "highlighted": false,
     "createdAt": "2022-08-11 09:52:42.069337",
     "updatedAt": "2022-08-11 09:52:42.069337",
     "type": "company"
@@ -444,7 +429,6 @@
     "logo": "",
     "city": "Zagreb/Karlovac",
     "description": "3D modeliranje/arhitektualna vizualizacija, AR/VR, razvoj i dizajn videoigara.",
-    "highlighted": false,
     "createdAt": "2022-08-10 12:15:30.292332",
     "updatedAt": "2022-08-10 12:15:30.292332",
     "type": "company"
@@ -459,7 +443,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1660075347/pausalac/senia_rvqqw7.jpg",
     "city": "Rijeka",
     "description": "Knjigovodstveni servis sa dugogodišnjom tradicijom, više od 25. godina pruža računovodstveno knjigovodstvene usluge i porezno savjetovanje obrtnicima, poduzetnicima i udrugama. Iza nas stoje brojni zadovoljni klijenti, obratite se s povjerenjem.",
-    "highlighted": false,
     "createdAt": "2022-08-09 20:02:37.28053",
     "updatedAt": "2022-08-09 20:02:37.28053",
     "type": "accountant"
@@ -474,7 +457,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1659628943/pausalac/pausalac_c6vejg.jpg",
     "city": "Slavonski Brod",
     "description": "Obrt za računalno programiranje i savjetovanje u vezi s programiranjem. Kreator aplikacije Paušalac; Ukoliko ti treba web ili mobilna aplikacija, slobodno pošalji upit!",
-    "highlighted": false,
     "createdAt": "2022-08-04 16:02:42.835487",
     "updatedAt": "2022-08-04 16:02:42.835487",
     "type": "company"
@@ -489,7 +471,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1659624399/pausalac/astrid_hzq8xo.jpg",
     "city": "Nerežišća, otok Brač",
     "description": "Obrt za knjigovodstvene usluge",
-    "highlighted": false,
     "createdAt": "2022-08-04 14:49:39.871811",
     "updatedAt": "2022-08-04 14:49:39.871811",
     "type": "accountant"
@@ -504,7 +485,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1659213839/pausalac/makora_kefgqo.jpg",
     "city": "Matulji",
     "description": "Makora knjigovodstvo i poslovne usluge",
-    "highlighted": false,
     "createdAt": "2022-07-30 20:46:00.534867",
     "updatedAt": "2022-07-30 20:46:00.534867",
     "type": "accountant"
@@ -519,7 +499,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642882191/pausalac/matchfector_hxnewf.jpg",
     "city": "Zagreb",
     "description": "Savjetovanje kompanija oko upravljanja poslovanjem, management i konzalting",
-    "highlighted": false,
     "createdAt": "2022-01-22 20:11:54.120919",
     "updatedAt": "2022-01-22 20:11:54.120919",
     "type": "accountant"
@@ -534,7 +513,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642881498/pausalac/conipo_dsdcew.jpg",
     "city": "Kaštele",
     "description": "Pratimo i podržavamo tvrtke i ljude tijekom procesa kritičnih promjena i kompetentnošću postižemo jasnoću i dosljednost.",
-    "highlighted": false,
     "createdAt": "2022-01-22 20:05:56.187948",
     "updatedAt": "2022-01-22 20:05:56.187948",
     "type": "accountant"
@@ -549,7 +527,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642881377/pausalac/projectus_ru4dvg.jpg",
     "city": "Donji Miholjac",
     "description": "Obrt za upravljanje i savjetovanje u vezi s poslovanjem. Temeljne usluge koje nudimo su izrada projektnih prijedloga, vođenje i upravljanje projektom, izrada poslovnih planova.",
-    "highlighted": false,
     "createdAt": "2022-01-22 19:56:53.466476",
     "updatedAt": "2022-01-22 19:56:53.466476",
     "type": "accountant"
@@ -564,7 +541,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642881236/pausalac/symul_tzeoct.jpg",
     "city": "Zagreb",
     "description": "Surađujemo sa poduzetnicima i pojedincima koji su spremni napraviti preokret u svom poslovanju, povećati prodaju, izaći na nova tržišta, educirati se i ostvarivati veći profit",
-    "highlighted": false,
     "createdAt": "2022-01-22 19:54:43.953394",
     "updatedAt": "2022-01-22 19:54:43.953394",
     "type": "accountant"
@@ -579,7 +555,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642881000/pausalac/jurosidea_dqsdhn.jpg",
     "city": "Krapina",
     "description": "EU projekti, poslovni planovi i marketing",
-    "highlighted": false,
     "createdAt": "2022-01-22 19:51:34.456754",
     "updatedAt": "2022-01-22 19:51:34.456754",
     "type": "accountant"
@@ -594,7 +569,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642880765/pausalac/hemi-consulting_dc9njs.jpg",
     "city": "Zagreb",
     "description": "Savjetodavna tvrtka specijalizirana za usluge vezane uz bespovratna sredstva iz fondova Europske unije.",
-    "highlighted": false,
     "createdAt": "2022-01-22 19:48:11.731524",
     "updatedAt": "2022-01-22 19:48:11.731524",
     "type": "accountant"
@@ -609,7 +583,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642355669/pausalac/foris_nxxbdc.jpg",
     "city": "Zagreb",
     "description": "Financije, osiguranje, računovodstvo, interna revizija, savjetovanje",
-    "highlighted": false,
     "createdAt": "2022-01-16 17:50:21.158119",
     "updatedAt": "2022-01-16 17:50:21.158119",
     "type": "accountant"
@@ -624,7 +597,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642354988/pausalac/sit_pfmx0v.jpg",
     "city": "Karlovac",
     "description": "Obrt nudi širok spektar poslovnih usluga na području računovodstva, administracije i izrade poslovnih planova te prijave na natječaje!",
-    "highlighted": false,
     "createdAt": "2022-01-16 17:44:28.778729",
     "updatedAt": "2022-01-16 17:44:28.778729",
     "type": "accountant"
@@ -639,7 +611,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642354766/pausalac/librus_tahwyv.jpg",
     "city": "Petrinja",
     "description": "Knjigovodstveno računovodstveni obrt",
-    "highlighted": false,
     "createdAt": "2022-01-16 17:40:49.478328",
     "updatedAt": "2022-01-16 17:40:49.478328",
     "type": "accountant"
@@ -654,7 +625,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642179132/pausalac/system-b_f3lpfv.jpg",
     "city": "Zagreb",
     "description": "Računovodstveni ured specijaliziran za pružanje online knjigovodstvenih i računovodstvenih usluga i usluga savjetovanja za trgovačka društva, obrte, slobodna zanimanja i građane",
-    "highlighted": false,
     "createdAt": "2022-01-14 16:54:24.313401",
     "updatedAt": "2022-01-14 16:54:24.313401",
     "type": "accountant"
@@ -669,7 +639,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1639068543/pausalac/alfa-balans_xyawyi.jpg",
     "city": "Zagreb",
     "description": null,
-    "highlighted": false,
     "createdAt": "2021-12-09 16:49:39.753827",
     "updatedAt": "2021-12-09 16:49:39.753827",
     "type": "accountant"
@@ -684,7 +653,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637685200/pausalac/kapital_osnnjp.png",
     "city": "Vukovar",
     "description": "Obrt za računovodstvene i knjigovodstvene usluge",
-    "highlighted": false,
     "createdAt": "2021-11-23 16:35:41.027234",
     "updatedAt": "2021-11-23 16:35:41.027234",
     "type": "accountant"
@@ -699,7 +667,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637608649/pausalac/spalatum_pd1bj0.png",
     "city": "Kaštel Kambelovac",
     "description": "Obrt za računovodstvene i knjigovodstvene usluge",
-    "highlighted": false,
     "createdAt": "2021-11-22 19:19:13.412563",
     "updatedAt": "2021-11-22 19:19:13.412563",
     "type": "accountant"
@@ -714,7 +681,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637084236/pausalac/ledine_vpzdgu.jpg",
     "city": "Sesvete",
     "description": "Svojom dugogodišnjom računovodstvenom praksom garantiramo bezbrižno i pouzdano vođenje vašeg poslovanja\t\t\t\t\t",
-    "highlighted": false,
     "createdAt": "2021-11-16 17:38:10.151093",
     "updatedAt": "2021-11-16 17:38:10.151093",
     "type": "accountant"
@@ -729,7 +695,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637083803/pausalac/planer_fgen9m.jpg",
     "city": "Zadar",
     "description": "Usluge knjigovodstva, poslovnog planiranja i administracije",
-    "highlighted": false,
     "createdAt": "2021-11-15 17:04:33.043671",
     "updatedAt": "2021-11-15 17:04:33.043671",
     "type": "accountant"
@@ -744,7 +709,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637083852/pausalac/avista_hryi2h.png",
     "city": "Požega",
     "description": "Obrt za knjigovodstvene usluge",
-    "highlighted": false,
     "createdAt": "2021-11-14 22:25:48.290297",
     "updatedAt": "2021-11-14 22:25:48.290297",
     "type": "accountant"
@@ -759,7 +723,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637083497/pausalac/amari_b9rw7s.png",
     "city": "Zagreb",
     "description": "Računovodstene i knjigovodstvene usluge",
-    "highlighted": false,
     "createdAt": "2021-11-14 22:18:59.975658",
     "updatedAt": "2021-11-14 22:18:59.975658",
     "type": "accountant"
@@ -774,7 +737,6 @@
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637083720/pausalac/solventa_bmrwls.png",
     "city": "Zagreb",
     "description": "Računovodstvo za digitalne usluge",
-    "highlighted": false,
     "createdAt": "2021-11-14 19:26:48.396245",
     "updatedAt": "2021-11-14 19:26:48.396245",
     "type": "accountant"
