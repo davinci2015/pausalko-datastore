@@ -1,5 +1,19 @@
 [
   {
+    "id": 89,
+    "name": "IML MASAŽA",
+    "email": "levak17@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385953588189",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1676891888/pausalac/IMG_20230214_1049_z6uew9.jpg",
+    "city": "Zagreb",
+    "description": "Salon za masažu",
+    "createdAt": "2023-02-20 17:05:24.166715",
+    "updatedAt": "2023-02-20 17:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 88,
     "name": "Banda Marketing",
     "email": "dorothea@banda.marketing",
