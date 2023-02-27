@@ -1,5 +1,19 @@
 [
   {
+    "id": 90,
+    "name": "Bonjour Beauty",
+    "email": "gavrantanja@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/bonjourbeauty35",
+    "phone": "+385976714676",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1677483315/pausalac/309402579_544679994323909_1540573636263914784_n_odkqxf.jpg",
+    "city": "Zagreb, Jaruščica 23",
+    "description": "Kozmetičke usluge, njega lica, tijela, noktiju",
+    "createdAt": "2023-02-27 17:05:24.166715",
+    "updatedAt": "2023-02-27 17:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 89,
     "name": "IML MASAŽA",
     "email": "levak17@gmail.com",
