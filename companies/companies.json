@@ -1,5 +1,19 @@
 [
   {
+    "id": 91,
+    "name": "Malenica",
+    "email": "matiamalle@gmail.com",
+    "websiteUrl": "https://malenica.hr",
+    "facebookUrl": null,
+    "phone": "+385957333628",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1677688016/pausalac/Logo_2021_1_-_Maleniica_M_glviy5.jpg",
+    "city": "Zagreb",
+    "description": "Usluge produkcije za društvene mreže i ostalo",
+    "createdAt": "2023-03-01 17:05:24.166715",
+    "updatedAt": "2023-03-01 17:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 90,
     "name": "Bonjour Beauty",
     "email": "gavrantanja@gmail.com",
