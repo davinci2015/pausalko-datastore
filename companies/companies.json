@@ -1,5 +1,19 @@
 [
   {
+    "id": 93,
+    "name": "Pė studio",
+    "email": "pe@pestudio.hr",
+    "websiteUrl": "https://pestudio.hr",
+    "facebookUrl": "https://www.facebook.com/pestudiohr",
+    "phone": "+385997530629",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1678385642/pausalac/DCAB14C0-322E-4CCF-9A29-E814D375A540_-_Petra_Krndelj_lkzn8v.jpg",
+    "city": "Zagreb",
+    "description": "Metaverse architecture and interior design",
+    "createdAt": "2023-03-09 18:05:24.166715",
+    "updatedAt": "2023-03-09 18:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 92,
     "name": "PROBAZENI",
     "email": "info@probazeni.hr",
