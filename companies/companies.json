@@ -1,5 +1,19 @@
 [
   {
+    "id": 92,
+    "name": "PROBAZENI",
+    "email": "info@probazeni.hr",
+    "websiteUrl": "https://www.probazeni.hr",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100090186912683",
+    "phone": "+385955501025",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1678385215/pausalac/Adobe_Express_20230209_1835520_1_-_Filip_Bojc%CC%8Cic%CC%81_rmapo7.png",
+    "city": "Zadar",
+    "description": "Izgradnja bazena i montaža bazenske tehnike, održavanje bazena i hidromasažnih sustava",
+    "createdAt": "2023-03-09 17:05:24.166715",
+    "updatedAt": "2023-03-09 17:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 91,
     "name": "Malenica",
     "email": "matiamalle@gmail.com",
