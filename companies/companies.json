@@ -1,5 +1,33 @@
 [
   {
+    "id": 95,
+    "name": "SAMMMI obrt za usluge",
+    "email": "sammmiobrtzausluge@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/Pranje1998",
+    "phone": "+385911399393",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1679256578/pausalac/277798954_520815636323801_2345135701426849766_n_tccile.jpg",
+    "city": "Deklešanec 81",
+    "description": "Bavimo se čišćenjem zgrada,poslovnih prostora, čišćenjem okoliša i krajolika, pranjem, poliranjem i čišćenjem garaža, pločica, namještaja",
+    "createdAt": "2023-03-19 14:05:24.166715",
+    "updatedAt": "2023-03-19 14:05:24.166715",
+    "type": "company"
+  },
+  {
+    "id": 94,
+    "name": "KONTO-KM, vl. Katarina Marić",
+    "email": "kontokm23@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100090896571760",
+    "phone": "+385989359805",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1679256403/pausalac/IMG_20230315_141634_304_-_Katarina_Maric%CC%81_cw14f3.jpg",
+    "city": "Čepin",
+    "description": "Knjigovodstvene i administrativne usluge, poslovno savjetovavnje te pisanje poslovnog plana",
+    "createdAt": "2023-03-19 13:05:24.166715",
+    "updatedAt": "2023-03-19 13:05:24.166715",
+    "type": "accountant"
+  },
+  {
     "id": 93,
     "name": "Pė studio",
     "email": "pe@pestudio.hr",
