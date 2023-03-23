@@ -1,5 +1,19 @@
 [
   {
+    "id": 96,
+    "name": "BRIGA MANJE",
+    "email": "brigamanje96@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100090158868946",
+    "phone": "+385958050532",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1679566376/pausalac/BRIGA-MANJE-JPG_-_Valentino_xgmq1i.jpg",
+    "city": "Sisak",
+    "description": "USLUGE UREĐENJA I ODRŽAVANJA KRAJOLIKA\nUređenje i održavanje:\n-okućnice\n-vinograda\n-voćnjaka\n-vikendice\n-livada",
+    "createdAt": "2023-03-23 14:05:24.166715",
+    "updatedAt": "2023-03-23 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 95,
     "name": "SAMMMI obrt za usluge",
     "email": "sammmiobrtzausluge@gmail.com",
@@ -778,7 +792,7 @@
     "phone": "+385953953690",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637084236/pausalac/ledine_vpzdgu.jpg",
     "city": "Sesvete",
-    "description": "Svojom dugogodišnjom računovodstvenom praksom garantiramo bezbrižno i pouzdano vođenje vašeg poslovanja\t\t\t\t\t",
+    "description": "Svojom dugogodišnjom računovodstvenom praksom garantiramo bezbrižno i pouzdano vođenje vašeg poslovanja",
     "createdAt": "2021-11-16 17:38:10.151093",
     "updatedAt": "2021-11-16 17:38:10.151093",
     "type": "accountant"
