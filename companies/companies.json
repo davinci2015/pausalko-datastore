@@ -1,5 +1,19 @@
 [
   {
+    "id": 97,
+    "name": "Ekvivalent",
+    "email": "darko.ekvivalent@gmail.com",
+    "websiteUrl": "https://www.ekvivalent.hr",
+    "facebookUrl": null,
+    "phone": "+38598502919 ",
+    "logo": null,
+    "city": "Rijeka",
+    "description": "Stalni sudski tumač za njemački jezik\nTuristički vodič",
+    "createdAt": "2023-04-04 14:05:24.166715",
+    "updatedAt": "2023-04-04 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 96,
     "name": "BRIGA MANJE",
     "email": "brigamanje96@gmail.com",
