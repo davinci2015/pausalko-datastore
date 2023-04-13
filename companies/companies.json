@@ -1,11 +1,25 @@
 [
   {
+    "id": 98,
+    "name": "Super Fast",
+    "email": "superfastciscenje@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385911520307",
+    "logo": null,
+    "city": "Zagreb",
+    "description": "Nudim čiščenje i održavanje poslovnih prostora i ureda",
+    "createdAt": "2023-04-13 14:05:24.166715",
+    "updatedAt": "2023-04-13 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 97,
     "name": "Ekvivalent",
     "email": "darko.ekvivalent@gmail.com",
     "websiteUrl": "https://www.ekvivalent.hr",
     "facebookUrl": null,
-    "phone": "+38598502919 ",
+    "phone": "+38598502919",
     "logo": null,
     "city": "Rijeka",
     "description": "Stalni sudski tumač za njemački jezik\nTuristički vodič",
