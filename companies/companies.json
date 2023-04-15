@@ -1,5 +1,19 @@
 [
   {
+    "id": 99,
+    "name": "MSM Promocija",
+    "email": "redakcija@msm.hr",
+    "websiteUrl": "https://msm.hr",
+    "facebookUrl": "https://www.facebook.com/medjimurskasportskamreza",
+    "phone": "+385994402093",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1681570270/pausalac/received_2507795629233674_-_Nikola_Lukman_jrwgzt.jpg",
+    "city": "Čakovec",
+    "description": "Marketing, oglašavanje preko medija, organizacija sportskih događanja, odnosi s javnošću",
+    "createdAt": "2023-04-15 14:05:24.166715",
+    "updatedAt": "2023-04-15 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 98,
     "name": "Super Fast",
     "email": "superfastciscenje@gmail.com",
