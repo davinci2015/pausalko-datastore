@@ -1,5 +1,19 @@
 [
   {
+    "id": 100,
+    "name": "Danitech",
+    "email": "info@danitech.hr",
+    "websiteUrl": "https://danitech.hr",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100090936004233",
+    "phone": "+385958084214",
+    "logo": null,
+    "city": "Poreč",
+    "description": "Elektroinstalacijski radovi, elektro i strojarsko odžavanje u industriji i kućanstvu.",
+    "createdAt": "2023-04-18 14:05:24.166715",
+    "updatedAt": "2023-04-18 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 99,
     "name": "MSM Promocija",
     "email": "redakcija@msm.hr",
