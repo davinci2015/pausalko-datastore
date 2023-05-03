@@ -1,5 +1,19 @@
 [
   {
+    "id": 102,
+    "name": "Quantico",
+    "email": "info@quantico.hr",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": null,
+    "logo": null,
+    "city": "Zagreb",
+    "description": "Izrada web stranica, IT podrška, IT konzalting.",
+    "createdAt": "2023-05-03 14:06:24.166715",
+    "updatedAt": "2023-05-03 14:06:24.166715",
+    "type": "company"
+  },
+  {
     "id": 101,
     "name": "LaserMax",
     "email": "info@lasermax.hr",
