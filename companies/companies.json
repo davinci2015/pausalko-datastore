@@ -1,5 +1,19 @@
 [
   {
+    "id": 103,
+    "name": "Perfect solution (Clean team)",
+    "email": "cleanteam.agram@gmail.com",
+    "websiteUrl": "https://www.instagram.com/cleanteam.zg",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100088548900119",
+    "phone": "+385997448333",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1683128852/pausalac/IMG_20221205_153415_-_Clean_Team_oiueh5.png",
+    "city": "Zagreb i okolica ",
+    "description": "Dubinsko čišćenje namještaja, tepiha, tapisona i vozila u Vašem domu",
+    "createdAt": "2023-05-03 14:07:24.166715",
+    "updatedAt": "2023-05-03 14:07:24.166715",
+    "type": "company"
+  },
+  {
     "id": 102,
     "name": "Quantico",
     "email": "info@quantico.hr",
