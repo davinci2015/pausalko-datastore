@@ -1,5 +1,19 @@
 [
   {
+    "id": 101,
+    "name": "LaserMax",
+    "email": "info@lasermax.hr",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385957585983",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1683128622/pausalac/High_Resolution_Image_3_-_Domagoj_Gavran_vfs5zn.jpg",
+    "city": "Stari Slatinik Alojzija Stepinca 17",
+    "description": "Lasersko graviranje, izrezivanje drveta, plastike, kože i ostalih materijala. Primarno se bavimo izradom svijećnjaka, visilica, kućnih brojeva, poklona poput vinskih/viski kutija i još mnogo toga.",
+    "createdAt": "2023-05-03 14:05:24.166715",
+    "updatedAt": "2023-05-03 14:05:24.166715",
+    "type": "company"
+  },
+  {
     "id": 100,
     "name": "Danitech",
     "email": "info@danitech.hr",
