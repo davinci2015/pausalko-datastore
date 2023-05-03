@@ -1,5 +1,19 @@
 [
   {
+    "id": 104,
+    "name": "Beba Parketi",
+    "email": "bebaparketi@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385925012773",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1683146857/pausalac/IMG_8478_-_Vedran_Beblek_ojlhge.png",
+    "city": "Zagreb",
+    "description": "Kompletna obrada i postavljanje parketa, laminata, vinila i drugih podnih obloga, drvenih stepenica, podloga za terase. Takodjer mikrocement.",
+    "createdAt": "2023-05-03 14:08:24.166715",
+    "updatedAt": "2023-05-03 14:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 103,
     "name": "Perfect solution (Clean team)",
     "email": "cleanteam.agram@gmail.com",
@@ -7,7 +21,7 @@
     "facebookUrl": "https://www.facebook.com/profile.php?id=100088548900119",
     "phone": "+385997448333",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1683128852/pausalac/IMG_20221205_153415_-_Clean_Team_oiueh5.png",
-    "city": "Zagreb i okolica ",
+    "city": "Zagreb i okolica",
     "description": "Dubinsko čišćenje namještaja, tepiha, tapisona i vozila u Vašem domu",
     "createdAt": "2023-05-03 14:07:24.166715",
     "updatedAt": "2023-05-03 14:07:24.166715",
