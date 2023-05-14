@@ -1,5 +1,19 @@
 [
   {
+    "id": 105,
+    "name": "ZIN Team",
+    "email": "neda@zin-team.com",
+    "websiteUrl": "https://zin-team.com",
+    "facebookUrl": null,
+    "phone": "+38598582265",
+    "logo": null,
+    "city": "Online",
+    "description": "Ukoliko ne stižete sami izrađivati vizuale za svoje drustvene mreže, možemo to napraviti za vas. Vi se u miru posvetite svom poslu, a ipak budite prisutni na drustvenim mrežama. Objave, reelse i ostalo pripremit ćemo za vas prema vašim uputama i skladu s vašim brendom te ćete ih dobiti spremne za objavu. Također možemo testirati vašu web stranicu i predložiti vam redizajn koje će vašu stranicu učiniti praktičnijom i jasnijom vašim klijentima.",
+    "createdAt": "2023-05-14 14:08:24.166715",
+    "updatedAt": "2023-05-14 14:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 104,
     "name": "Beba Parketi",
     "email": "bebaparketi@gmail.com",
