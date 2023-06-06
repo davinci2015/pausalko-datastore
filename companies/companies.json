@@ -1,5 +1,19 @@
 [
   {
+    "id": 106,
+    "name": "CLEVER FOX DESIGN",
+    "email": "mia.clever.fox.design@gmail.com",
+    "websiteUrl": "https://cleverfoxdesign.hr",
+    "facebookUrl": "https://www.facebook.com/designcleverfox",
+    "phone": "+385989202103",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686091568/pausalac/IG_001_a_-_Mia_Majstor_kubdly.png",
+    "city": "Pitomača",
+    "description": "Dizajn vizualnog identiteta / UI UX / Sadržaj za društvene mreže / Ostali grafički dizajn",
+    "createdAt": "2023-06-07 14:08:24.166715",
+    "updatedAt": "2023-06-07 14:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 105,
     "name": "ZIN Team",
     "email": "neda@zin-team.com",
