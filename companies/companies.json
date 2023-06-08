@@ -1,5 +1,19 @@
 [
   {
+    "id": 107,
+    "name": "UMC KERAMIKA",
+    "email": "umckeramika@email.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/umckeramika",
+    "phone": "+385953806209",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686209722/pausalac/imgonline-com-ua-Negative-AOC2DeREn4_-_Bloody_Mary_e0jsgc.jpg",
+    "city": "Labin",
+    "description": "Ugradnja keramičkih pločica",
+    "createdAt": "2023-06-08 14:08:24.166715",
+    "updatedAt": "2023-06-08 14:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 106,
     "name": "CLEVER FOX DESIGN",
     "email": "mia.clever.fox.design@gmail.com",
