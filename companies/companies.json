@@ -1,5 +1,19 @@
 [
   {
+    "id": 109,
+    "name": "Ativos B obrt za knjigovodstvene usluge i poslovno savjetovanje",
+    "email": "info@ativos.hr",
+    "websiteUrl": "https://www.ativos.hr",
+    "facebookUrl": "https://www.facebook.com/ativos.knjigovodstvo",
+    "phone": "+385977414196",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686597275/pausalac/347406633_755423622731869_7494603530940439998_n_ugylia.jpg",
+    "city": "Sinj (remote cijela Hrvatska)",
+    "description": "Knjigovodstvene usluge i poslovno savjetovanje",
+    "createdAt": "2023-06-12 15:08:24.166715",
+    "updatedAt": "2023-06-12 15:08:24.166715",
+    "type": "accountant"
+  },
+  {
     "id": 108,
     "name": "NAOKI leather lab",
     "email": "naokileatherlab@gmail.com",
