@@ -1,5 +1,19 @@
 [
   {
+    "id": 108,
+    "name": "NAOKI leather lab",
+    "email": "naokileatherlab@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/naokileatherlab/",
+    "phone": "+385915986448",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686583391/pausalac/274861657_898111980856957_2094571157262235993_n_bcq3nj.jpg",
+    "city": "Rijeka",
+    "description": "Bavimo se ručnom izradom artikala od kvalitetne talijanske kože - novčanici, remeni, nakit, ručkice za namještaj.",
+    "createdAt": "2023-06-12 14:08:24.166715",
+    "updatedAt": "2023-06-12 14:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 107,
     "name": "UMC KERAMIKA",
     "email": "umckeramika@email.com",
