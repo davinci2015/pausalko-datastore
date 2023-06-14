@@ -1,5 +1,19 @@
 [
   {
+    "id": 110,
+    "name": "Amon, obrt za usluge i trgovinu",
+    "email": "amon.usluge@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100087235893905",
+    "phone": "+385917954803",
+    "logo": null,
+    "city": "Poreč",
+    "description": "Bavimo se opremanjem apartmana, vila i kuća za odmor tekstilnim asortimanom - ručnici, posteljina, jastuci, popluni i dr.",
+    "createdAt": "2023-06-12 15:08:24.166715",
+    "updatedAt": "2023-06-12 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 109,
     "name": "Ativos B obrt za knjigovodstvene usluge i poslovno savjetovanje",
     "email": "info@ativos.hr",
