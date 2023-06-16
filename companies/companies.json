@@ -1,5 +1,19 @@
 [
   {
+    "id": 111,
+    "name": "Martic Network, obrt za specijalizirane dizajnerske usluge",
+    "email": "natasa@martic.net",
+    "websiteUrl": "https://natasa.martic.net",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686926565/pausalac/Product_Launch_Countdown_Timer_Days_Left_Instagram_Story_-_Natasa_Martic_wbrrna.jpg",
+    "city": "Na daljinu",
+    "description": "Grafička priprema, web administracija, poduke iz programa: Figma, Photoshop, InDesign, Canva. Održavanje društvenih mreža.",
+    "createdAt": "2023-06-16 15:08:24.166715",
+    "updatedAt": "2023-06-16 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 110,
     "name": "Amon, obrt za usluge i trgovinu",
     "email": "amon.usluge@gmail.com",
