@@ -1,5 +1,19 @@
 [
   {
+    "id": 112,
+    "name": "Titi, obrt za čišćenje",
+    "email": "titi.ciscenje@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": null,
+    "logo": null,
+    "city": "Rijeka i okolica",
+    "description": "Bavimo se čišćenjem poslovnih prostora, apartmana, stanova,...",
+    "createdAt": "2023-06-20 15:08:24.166715",
+    "updatedAt": "2023-06-20 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 111,
     "name": "Martic Network, obrt za specijalizirane dizajnerske usluge",
     "email": "natasa@martic.net",
