@@ -1,5 +1,19 @@
 [
   {
+    "id": 114,
+    "name": "KOTOBA, obrt za usluge",
+    "email": "info@kotoba.hr",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385915641594",
+    "logo": null,
+    "city": "Rijeka, Hrvatska",
+    "description": "Prevođenje i lektura za hrvatski, engleski, japanski, španjolski i portugalski jezik",
+    "createdAt": "2023-07-04 15:08:24.166715",
+    "updatedAt": "2023-07-04 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 113,
     "name": "BERDIK obrt za usluge",
     "email": "iberdik@gmail.com",
