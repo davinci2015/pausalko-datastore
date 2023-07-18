@@ -1,5 +1,19 @@
 [
   {
+    "id": 115,
+    "name": "NISTALIT",
+    "email": "info@nistalit.hr",
+    "websiteUrl": "https://www.nistalit.com",
+    "facebookUrl": null,
+    "phone": "+385981982324",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1689696296/pausalac/Screenshot_2023-07-15-15-17-53-448-edit_com.android.chrome_-_Branimir_Rosic_izrmcp.jpg",
+    "city": "Gradište",
+    "description": "Agencija za digitalni marketing usmjerena digitalnom razvoju poslovanja",
+    "createdAt": "2023-07-18 15:08:24.166715",
+    "updatedAt": "2023-07-18 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 114,
     "name": "KOTOBA, obrt za usluge",
     "email": "info@kotoba.hr",
