@@ -1,5 +1,19 @@
 [
   {
+    "id": 116,
+    "name": "KYVOS, obrt za usluge",
+    "email": "kyvos17@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385957675396",
+    "logo": null,
+    "city": "Osijek",
+    "description": "Kemijsko i dubinsko čišćenje vozila,namještaja i madraca",
+    "createdAt": "2023-07-18 15:08:24.166715",
+    "updatedAt": "2023-07-18 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 115,
     "name": "NISTALIT",
     "email": "info@nistalit.hr",
