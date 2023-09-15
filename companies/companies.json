@@ -1,5 +1,19 @@
 [
   {
+    "id": 117,
+    "name": "Waymark",
+    "email": "hello@waymark.agency",
+    "websiteUrl": "https://www.waymark.agency",
+    "facebookUrl": "https://www.facebook.com/WaymarkAgency",
+    "phone": "+385918947078",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1694760059/pausalac/waymark_logo_grey_-_Waymark_Agency_weyhhy.png",
+    "city": "Zagreb",
+    "description": "Savjetujemo, apliciramo i provodimo projekte financirani pomoću EU fondova.",
+    "createdAt": "2023-09-15 15:08:24.166715",
+    "updatedAt": "2023-09-15 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 116,
     "name": "KYVOS, obrt za usluge",
     "email": "kyvos17@gmail.com",
