@@ -1,5 +1,19 @@
 [
   {
+    "id": 119,
+    "name": "revoLUCIA",
+    "email": "lucia@luciajuric.com",
+    "websiteUrl": "https://www.linkedin.com/in/lucia-juric-revolucia",
+    "facebookUrl": null,
+    "phone": "+385955339343",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1695797877/pausalac/IMG_7185_-_Lucia_Juric%CC%81_higz12.jpg",
+    "city": "Hrvatska",
+    "description": "Identificirat ću ti idealnu karijeru i prikladnu radnu poziciju u 2h uz pomoć prediktivne analitike. Garancija povrata novca.",
+    "createdAt": "2023-09-27 15:08:24.166715",
+    "updatedAt": "2023-09-27 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 118,
     "name": "MotionP",
     "email": "Kjaki819@gmail.com",
