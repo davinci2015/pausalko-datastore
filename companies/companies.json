@@ -1,5 +1,19 @@
 [
   {
+    "id": 120,
+    "name": "KERAMIKA KOVAČEVIĆ",
+    "email": "keramika.kovacevic03@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": null,
+    "logo": null,
+    "city": null,
+    "description": "Postavljanje podnih i zidnih obloga\nMontaža suhe gradnje\nOsnovno ciscenje zgrada",
+    "createdAt": "2023-10-01 15:08:24.166715",
+    "updatedAt": "2023-10-01 15:08:24.166715",
+    "type": "company"
+  },
+  {
     "id": 119,
     "name": "revoLUCIA",
     "email": "lucia@luciajuric.com",
