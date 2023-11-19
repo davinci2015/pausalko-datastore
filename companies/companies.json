@@ -1,5 +1,19 @@
 [
   {
+    "id": 124,
+    "name": "Words and Visuals",
+    "email": "wwwbytina@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": null,
+    "logo": null,
+    "city": "Rijeka",
+    "description": "Pomažem voditi društvene mreže i pisati prodajne tekstove. Fokus na žene poduzetnice s online biznisima.",
+    "createdAt": "2023-11-19 15:11:24.166715",
+    "updatedAt": "2023-11-19 15:11:24.166715",
+    "type": "company"
+  },
+  {
     "id": 123,
     "name": "MK obrt za proizvodnju i usluge",
     "email": "m.keckan@gmail.com",
