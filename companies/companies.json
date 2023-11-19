@@ -1,9 +1,23 @@
 [
   {
+    "id": 125,
+    "name": "TNT design",
+    "email": "nikatudor.tnt@gmail.com",
+    "websiteUrl": "https://www.instagram.com/nika_tudor",
+    "facebookUrl": null,
+    "phone": "+385959091123",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1700410507/pausalac/fkb0mifuetv9olnsyama.png",
+    "city": "Split i okolica",
+    "description": "Dizajn interijera u smislu total dizajna. Ukljucuje 2d projektiranje i dimenzioniranje prostorija, 3d dizajn i izradu vizualizacija, dizajn namještaja po mjeri, odabir kupovne opreme, izrada projekta interijera za izvodenje radova",
+    "createdAt": "2023-11-19 15:12:24.166715",
+    "updatedAt": "2023-11-19 15:12:24.166715",
+    "type": "company"
+  },
+  {
     "id": 124,
     "name": "Words and Visuals",
     "email": "wwwbytina@gmail.com",
-    "websiteUrl": null,
+    "websiteUrl": "https://www.instagram.com/wwwbytina",
     "facebookUrl": null,
     "phone": null,
     "logo": null,
