@@ -1,5 +1,19 @@
 [
   {
+    "id": 122,
+    "name": "Revive studio",
+    "email": "studiorevive.os@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100089010627648",
+    "phone": "+385919541432",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1700410178/pausalac/lfayyaymstvn6lg5obfy.jpg",
+    "city": "Osijek",
+    "description": "Glavna djelatnost nam je masaža, posvjećujemo se svakoj mušteriji individualno.\nUz glavnu djelatnost nudimo usluge:\n- Servis računala i igraćih konzola, nabava dijelova, inst. sustava, savjetovanje, održavanje\n- Internet oglašavanje, fotografiranje proizvoda\n- Servis bicikala i sportske opreme, nabava, detailing dijelova\n- Uređivanje okoliša ( okućnice, vrtovi, generalna čišćenja )\n- Pomoćni radovi na gradilištu, čišćenje,spremanje",
+    "createdAt": "2023-11-19 15:10:24.166715",
+    "updatedAt": "2023-11-19 15:10:24.166715",
+    "type": "company"
+  },
+  {
     "id": 121,
     "name": "START DIGITAL | Marketing & Web Dizajn",
     "email": "info@startdigital.hr",
