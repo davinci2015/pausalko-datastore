@@ -1,5 +1,19 @@
 [
   {
+    "id": 123,
+    "name": "MK obrt za proizvodnju i usluge",
+    "email": "m.keckan@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385953763850",
+    "logo": null,
+    "city": "Zbelava",
+    "description": "Usluge poljoprivrednom mehanizacijom, čišćenje, krčenje i održavanje zapuštenih terena i zelenih površina, popravak i izdrada dijelova za poljoprivredne i ostale strojeve, strojna obrada metala",
+    "createdAt": "2023-11-19 15:10:24.166715",
+    "updatedAt": "2023-11-19 15:10:24.166715",
+    "type": "company"
+  },
+  {
     "id": 122,
     "name": "Revive studio",
     "email": "studiorevive.os@gmail.com",
