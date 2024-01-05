@@ -8,9 +8,8 @@
     "model": "HR68",
     "referenceNumber": "8478-OIB",
     "price": {
-      "2021": 605.95,
-      "2022": 629.44,
-      "2023": 679.87
+      "2023": 88.47,
+      "2024": 102.96
     }
   },
   "mirovinsko_osiguranje_obavezno": {
@@ -22,9 +21,8 @@
     "model": "HR68",
     "referenceNumber": "8214-OIB",
     "price": {
-      "2021": 550.86,
-      "2022": 572.22,
-      "2023": 618.06
+      "2023": 80.43,
+      "2024": 124.8
     }
   },
   "mirovinsko_osiguranje_drugi_stup": {
@@ -36,9 +34,8 @@
     "model": "HR68",
     "referenceNumber": "2046-OIB",
     "price": {
-      "2021": 183.62,
-      "2022": 190.74,
-      "2023": 206.02
+      "2023": 26.81,
+      "2024": 31.2
     }
   },
   "porez_prirez": {
@@ -54,12 +51,7 @@
     "id": "komorski_doprinos",
     "title": "Komorski doprinos",
     "description": "Članarina Hrvatskoj obrtničkoj komori",
-    "dueDate": "last_day_of_month",
-    "price": {
-      "2021": 228,
-      "2022": 228,
-      "2023": 228
-    }
+    "dueDate": "last_day_of_month"
   },
   "clanarina_turistickim_zajednicama": {
     "id": "clanarina_turistickim_zajednicama",
