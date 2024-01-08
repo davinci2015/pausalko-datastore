@@ -1,5 +1,33 @@
 [
   {
+    "id": 127,
+    "name": "DANart",
+    "email": "danko.balac@outlook.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385951974551",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1704729130/pausalac/ppzsq8bo7ygysbxhkox3.jpg",
+    "city": "Zagreb",
+    "description": "Postavljenje zidnih i podnih obloga",
+    "createdAt": "2024-01-08 15:13:24.166715",
+    "updatedAt": "2024-01-08 15:13:24.166715",
+    "type": "company"
+  },
+  {
+    "id": 126,
+    "name": "EL-AX SUPERVISION",
+    "email": "elax.supervision@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385914921701",
+    "logo": null,
+    "city": "Hrvatska",
+    "description": "Pružanje usluge inženjera gradilišta i voditelja gradilišta elektro struka, ispunjavanje i potpisivanje e-gradjevinskog dnevnika elektro struka, savjetovanje u području zaštite od buke i ostala tehnička savjetovanja.",
+    "createdAt": "2024-01-08 15:12:24.166715",
+    "updatedAt": "2024-01-08 15:12:24.166715",
+    "type": "company"
+  },
+  {
     "id": 125,
     "name": "TNT design",
     "email": "nikatudor.tnt@gmail.com",
