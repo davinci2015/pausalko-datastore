@@ -1,5 +1,47 @@
 [
   {
+    "id": 130,
+    "name": "Creat.iva",
+    "email": "ivastojcevic12@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385912650999",
+    "logo": null,
+    "city": "Zagreb",
+    "description": "Ažuriranje sadržaja web stranice, pisanje tekstova za web stranice, lektura tekstova, SEO optimizacija, digitalno oglašavanje, Google Analytics",
+    "createdAt": "2024-01-10 15:25:24.166715",
+    "updatedAt": "2024-01-10 15:25:24.166715",
+    "type": "company"
+  },
+  {
+    "id": 129,
+    "name": "Studio Pledis",
+    "email": "pledislea@gmail.com",
+    "websiteUrl": "https://www.instagram.com/studio_pledis/?hl=hr",
+    "facebookUrl": "https://www.facebook.com/StudioPledis",
+    "phone": "+385957760657",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1704872892/pausalac/s4mahcutkmrl0xdwfozo.jpg",
+    "city": "Glavna 29/1.kat, Prelog",
+    "description": "Obrt za izradu noktiju i edukacije za izradu noktiju",
+    "createdAt": "2024-01-10 15:15:24.166715",
+    "updatedAt": "2024-01-10 15:15:24.166715",
+    "type": "company"
+  },
+  {
+    "id": 128,
+    "name": "Context",
+    "email": "majalazarevic3@gmail.com",
+    "websiteUrl": "https://www.croatian-interpreters.com",
+    "facebookUrl": null,
+    "phone": "+385989438974",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1704872523/pausalac/lndsnjrjyxh2smtzhwwp.jpg",
+    "city": "Rijeka",
+    "description": "Prevoditelj i sudski tumač za engleski, talijanski i srpski jezik. Simultani prijevod, prijevod uživo, ali i na online sastancima.",
+    "createdAt": "2024-01-10 15:13:24.166715",
+    "updatedAt": "2024-01-10 15:13:24.166715",
+    "type": "company"
+  },
+  {
     "id": 127,
     "name": "DANart",
     "email": "danko.balac@outlook.com",
@@ -992,20 +1034,6 @@
     "createdAt": "2022-08-09 20:02:37.28053",
     "updatedAt": "2022-08-09 20:02:37.28053",
     "type": "accountant"
-  },
-  {
-    "id": 21,
-    "name": "Blyxa",
-    "email": "danijel.vincijanovic@gmail.com",
-    "websiteUrl": "https://danijel-vincijanovic.from.hr",
-    "facebookUrl": null,
-    "phone": "+385917335025",
-    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1659628943/pausalac/pausalac_c6vejg.jpg",
-    "city": "Slavonski Brod",
-    "description": "Obrt za računalno programiranje i savjetovanje u vezi s programiranjem. Kreator aplikacije Paušalac; Ukoliko ti treba web ili mobilna aplikacija, slobodno pošalji upit!",
-    "createdAt": "2022-08-04 16:02:42.835487",
-    "updatedAt": "2022-08-04 16:02:42.835487",
-    "type": "company"
   },
   {
     "id": 20,
