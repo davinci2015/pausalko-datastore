@@ -1,5 +1,33 @@
 [
   {
+    "id": 132,
+    "name": "Montus - obrt za usluge",
+    "email": "ri.montus@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385923789086",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1706127826/pausalac/icohhuus5at0fmq57qz1.jpg",
+    "city": "Rijeka i okolica",
+    "description": "Pružam usluge kućnog majstora, održavanja u kući i oko nje. Puštanje u rad kućanskih aparata. Zamjena stolarije, brtvi oko PVC vrata/prozora.Slaganje namještaja, tuš kabina,...usluge čišćenja zgrada.",
+    "createdAt": "2024-01-24 15:25:24.166715",
+    "updatedAt": "2024-01-24 15:25:24.166715",
+    "type": "company"
+  },
+  {
+    "id": 131,
+    "name": "TRANSPORTI MARIN, obrt za prijevoz i usluge",
+    "email": "transportimarin1@gmail.com",
+    "websiteUrl": "https://www.njuskalo.hr/trgovina/TransportiMarin",
+    "facebookUrl": null,
+    "phone": "+385955752727",
+    "logo": null,
+    "city": "Zagreb",
+    "description": "Kombi prijevoz i selidbe, transporti, dostave namještaja iz šoping centara, za pravne i fizičke osobe. Zagreb i okolica, ostatak Hrvatske po dogovoru.",
+    "createdAt": "2024-01-24 15:25:24.166715",
+    "updatedAt": "2024-01-24 15:25:24.166715",
+    "type": "company"
+  },
+  {
     "id": 130,
     "name": "Creat.iva",
     "email": "ivastojcevic12@gmail.com",
