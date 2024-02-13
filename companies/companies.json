@@ -1,5 +1,33 @@
 [
   {
+    "id": 134,
+    "name": "GARDEN PLUS",
+    "email": "dominikpauletic@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385977448148",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1707812470/pausalac/tc9tcvpk6t6dcfkimjyr.jpg",
+    "city": "Poreč",
+    "description": "Čišćenje i održavanje bazena i okućnica, košnja trave i parcela, pranje miniwashom, uređenje okoliša, rušenje stabla, šišanje žive ograde",
+    "createdAt": "2024-02-13 15:25:30.166715",
+    "updatedAt": "2024-02-13 15:25:30.166715",
+    "type": "company"
+  },
+  {
+    "id": 133,
+    "name": "GLEDI, obrt za video produkciju i dizajn",
+    "email": "gledi.media@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=61555824696292",
+    "phone": null,
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1707812262/pausalac/z6qpxubolascmkewi9fi.jpg",
+    "city": "Grad Zagreb, Zagrebačka županija, Krapinsko-zagorska županija",
+    "description": "Video snimanje i montaža različitih vrsta videa (korporativni, promo i event videi, podcasti, reklame, oglasi reels za društvene mreže, 2d animirane grafike, logotipovi itd.), fotografiranje (portreti, događaji, proizvodi) te pružanje usluga grafičkog, digitalnog i web, UX, UI dizajna.",
+    "createdAt": "2024-02-13 15:25:24.166715",
+    "updatedAt": "2024-02-13 15:25:24.166715",
+    "type": "company"
+  },
+  {
     "id": 132,
     "name": "Montus - obrt za usluge",
     "email": "ri.montus@gmail.com",
