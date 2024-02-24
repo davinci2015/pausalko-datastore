@@ -1,5 +1,19 @@
 [
   {
+    "id": 135,
+    "name": "Studio TiM",
+    "email": "tamara.modric@yahoo.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100049818764118",
+    "phone": "+385915726156",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1708770055/pausalac/nciwees3vdyld91avpjd.jpg",
+    "city": "Rijeka",
+    "description": "Nudimo usluge lekture, korekture i uređenja tekstova te pisanja sadržaja na određenu temu",
+    "createdAt": "2024-02-24 15:25:30.166715",
+    "updatedAt": "2024-02-24 15:25:30.166715",
+    "type": "company"
+  },
+  {
     "id": 134,
     "name": "GARDEN PLUS",
     "email": "dominikpauletic@gmail.com",
