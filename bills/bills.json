@@ -51,7 +51,10 @@
     "id": "komorski_doprinos",
     "title": "Komorski doprinos",
     "description": "Članarina Hrvatskoj obrtničkoj komori",
-    "dueDate": "last_day_of_month"
+    "dueDate": "last_day_of_month",
+    "price": {
+      "2024": 31.92
+    }
   },
   "clanarina_turistickim_zajednicama": {
     "id": "clanarina_turistickim_zajednicama",
