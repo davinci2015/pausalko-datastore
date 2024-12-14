@@ -9,7 +9,8 @@
     "referenceNumber": "8478-OIB",
     "price": {
       "2023": 88.47,
-      "2024": 102.96
+      "2024": 102.96,
+      "2025": 118.67
     }
   },
   "mirovinsko_osiguranje_obavezno": {
@@ -22,7 +23,8 @@
     "referenceNumber": "8214-OIB",
     "price": {
       "2023": 80.43,
-      "2024": 93.6
+      "2024": 93.6,
+      "2025": 107.88
     }
   },
   "mirovinsko_osiguranje_drugi_stup": {
@@ -35,7 +37,8 @@
     "referenceNumber": "2046-OIB",
     "price": {
       "2023": 26.81,
-      "2024": 31.2
+      "2024": 31.2,
+      "2025": 35.96
     }
   },
   "porez_prirez": {
@@ -53,7 +56,8 @@
     "description": "Članarina Hrvatskoj obrtničkoj komori",
     "dueDate": "last_day_of_month",
     "price": {
-      "2024": 31.92
+      "2024": 31.92,
+      "2025": 31.92
     }
   },
   "clanarina_turistickim_zajednicama": {
