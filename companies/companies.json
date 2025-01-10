@@ -1,5 +1,19 @@
 [
   {
+    "id": 151,
+    "name": "Aristeia, obrt za poduku i ostale usluge ",
+    "email": "aristeia.stranijezici@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": "https://www.facebook.com/profile.php?id=61558633706825",
+    "phone": "+385996617186",
+    "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1736528580/pausalac/436470462_10232534635651850_1649815980190335718_n_fk7mlr.jpg",
+    "city": null,
+    "description": "- online tečajevi njemačkog i talijanskog  (grupni ili individualni: opći jezik i jezik struke, pripreme za maturu i internacionalne certifikate)\n- tečajevi hrvatskog jezika za strance",
+    "createdAt": "2025-01-10 15:03:30.166715",
+    "updatedAt": "2025-01-10 15:03:30.166715",
+    "type": "company"
+  },
+  {
     "id": 150,
     "name": "Gloriela",
     "email": "naklada@gloriela.hr",
@@ -8,7 +22,7 @@
     "phone": "+385958987976",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1731524508/pausalac/jax1yycvxkrut6oslk6d.jpg",
     "city": "Split",
-    "description": "Obrt za izdavaštvo, trgovinu i usluge\nNaklada s prvijencom Animalala- tamo gdje smo isti svi; ilustrirana priča za djecu od 6. do 10. god.\nOnda kad se teško odlučiti što kupiti djetetu, knjiga je uvijek dobar odgovor!",
+    "description": "Obrt za izdavaštvo, trgovinu i usluge\nNaklada s prvijencom Animalala - tamo gdje smo isti svi; ilustrirana priča za djecu od 6. do 10. god.\nOnda kad se teško odlučiti što kupiti djetetu, knjiga je uvijek dobar odgovor!",
     "createdAt": "2024-11-13 15:03:30.166715",
     "updatedAt": "2024-11-13 15:03:30.166715",
     "type": "company"
