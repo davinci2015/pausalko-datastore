@@ -1,7 +1,21 @@
 [
   {
+    "id": 152,
+    "name": "TRANSPORTI MARIN, obrt za prijevoz i usluge",
+    "email": "transportimarin1@gmail.com",
+    "websiteUrl": null,
+    "facebookUrl": null,
+    "phone": "+385955752727",
+    "logo": null,
+    "city": null,
+    "description": "Kombi prijevoz i selidbe, brze dostave iz trgovačkih centara te usluge odvoza starog namještaja.  ",
+    "createdAt": "2025-01-21 15:03:30.166715",
+    "updatedAt": "2025-01-21 15:03:30.166715",
+    "type": "company"
+  },
+  {
     "id": 151,
-    "name": "Aristeia, obrt za poduku i ostale usluge ",
+    "name": "Aristeia, obrt za poduku i ostale usluge",
     "email": "aristeia.stranijezici@gmail.com",
     "websiteUrl": null,
     "facebookUrl": "https://www.facebook.com/profile.php?id=61558633706825",
