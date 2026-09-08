@@ -19,7 +19,7 @@
     "facebookUrl": "https://www.facebook.com/ativos.knjigovodstvo",
     "phone": "+385977414196",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1686597275/pausalac/347406633_755423622731869_7494603530940439998_n_ugylia.jpg",
-    "city": "Sinj (remote cijela Hrvatska)",
+    "city": "Sinj",
     "description": "Knjigovodstvene usluge i poslovno savjetovanje",
     "type": "accountant"
   },
@@ -67,7 +67,7 @@
     "facebookUrl": "https://www.facebook.com/Final.Info.obrt",
     "phone": "+385915188716",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1661877739/pausalac/finalinfo_tyi0je.jpg",
-    "city": "Zagreb, cijela Hrvatska (remote)",
+    "city": "Zagreb",
     "description": "Računovodstvo i administracija",
     "type": "accountant"
   },
@@ -80,7 +80,7 @@
     "phone": "+385918919148",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1660075347/pausalac/senia_rvqqw7.jpg",
     "city": "Rijeka",
-    "description": "Knjigovodstveni servis sa dugogodišnjom tradicijom, više od 25 godina pruža računovodstveno knjigovodstvene usluge i porezno savjetovanje obrtnicima, poduzetnicima i udrugama.",
+    "description": "Knjigovodstveni servis s dugogodišnjom tradicijom i više od 25 godina iskustva.",
     "type": "accountant"
   },
   {
@@ -115,8 +115,8 @@
     "facebookUrl": "https://www.facebook.com/conipoconsulting",
     "phone": "+385977085993",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642881498/pausalac/conipo_dsdcew.jpg",
-    "city": "Kaštele",
-    "description": "Pratimo i podržavamo tvrtke i ljude tijekom procesa kritičnih promjena i kompetentnošću postižemo jasnoću i dosljednost.",
+    "city": "Kaštela",
+    "description": "Poslovno savjetovanje i podrška poduzetnicima.",
     "type": "accountant"
   },
   {
@@ -140,7 +140,7 @@
     "phone": "+385917260026",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642880765/pausalac/hemi-consulting_dc9njs.jpg",
     "city": "Zagreb",
-    "description": "Savjetodavna tvrtka specijalizirana za usluge vezane uz bespovratna sredstva iz fondova Europske unije.",
+    "description": "Savjetodavne usluge vezane uz bespovratna sredstva iz fondova Europske unije.",
     "type": "accountant"
   },
   {
@@ -152,7 +152,7 @@
     "phone": "+385921889920",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642355669/pausalac/foris_nxxbdc.jpg",
     "city": "Zagreb",
-    "description": "Financije, osiguranje, računovodstvo, interna revizija, savjetovanje",
+    "description": "Financije, osiguranje, računovodstvo, interna revizija i savjetovanje",
     "type": "accountant"
   },
   {
@@ -164,7 +164,7 @@
     "phone": "+385955236460",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642354988/pausalac/sit_pfmx0v.jpg",
     "city": "Karlovac",
-    "description": "Obrt nudi širok spektar poslovnih usluga na području računovodstva, administracije i izrade poslovnih planova te prijave na natječaje.",
+    "description": "Računovodstvo, administracija, poslovni planovi i prijave na natječaje.",
     "type": "accountant"
   },
   {
@@ -188,7 +188,7 @@
     "phone": "+385916188557",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1642179132/pausalac/system-b_f3lpfv.jpg",
     "city": "Zagreb",
-    "description": "Računovodstveni ured specijaliziran za pružanje online knjigovodstvenih i računovodstvenih usluga i usluga savjetovanja za trgovačka društva, obrte, slobodna zanimanja i građane",
+    "description": "Online knjigovodstvene i računovodstvene usluge za obrte, društva, slobodna zanimanja i građane.",
     "type": "accountant"
   },
   {
@@ -236,7 +236,7 @@
     "phone": "+385953953690",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637084236/pausalac/ledine_vpzdgu.jpg",
     "city": "Sesvete",
-    "description": "Svojom dugogodišnjom računovodstvenom praksom garantiramo bezbrižno i pouzdano vođenje vašeg poslovanja",
+    "description": "Računovodstvene usluge i dugogodišnja računovodstvena praksa.",
     "type": "accountant"
   },
   {
@@ -260,7 +260,7 @@
     "phone": "+385981850045",
     "logo": "https://res.cloudinary.com/dmxhplm2psss/image/upload/v1637083852/pausalac/avista_hryi2h.png",
     "city": "Požega",
-    "description": "Obrt za knjigodstvene usluge",
+    "description": "Obrt za knjigovodstvene usluge",
     "type": "accountant"
   },
   {
@@ -289,6 +289,42 @@
   },
   {
     "id": 25,
+    "name": "MV Knjigovodstvo",
+    "email": "info@mv-knjigovodstvo.hr",
+    "websiteUrl": "https://mv-knjigovodstvo.hr/",
+    "facebookUrl": null,
+    "phone": "+385992179009",
+    "logo": "https://mv-knjigovodstvo.hr/logo.webp",
+    "city": "Zagreb",
+    "description": "Knjigovodstvene i računovodstvene usluge. Online suradnja za klijente iz cijele Hrvatske.",
+    "type": "accountant"
+  },
+  {
+    "id": 26,
+    "name": "Tina Plus d.o.o.",
+    "email": "info@tinaplus.hr",
+    "websiteUrl": "https://tinaplus.hr/",
+    "facebookUrl": null,
+    "phone": "+38515513662",
+    "logo": "https://tinaplus.hr/assets/slike/header-logo.webp",
+    "city": "Zagreb",
+    "description": "Računovodstvene usluge za poduzetnike, obrte i paušalne obrte.",
+    "type": "accountant"
+  },
+  {
+    "id": 27,
+    "name": "IBL BIRO d.o.o.",
+    "email": "ibl-biro@ibl-biro.hr",
+    "websiteUrl": "https://www.ibl-biro.hr/",
+    "facebookUrl": null,
+    "phone": "+38512005592",
+    "logo": "https://www.ibl-biro.hr/wp-content/uploads/2015/05/ibl-logo-menu.png",
+    "city": "Sesvete",
+    "description": "Računovodstvene usluge, uključujući paket za paušalne obrte.",
+    "type": "accountant"
+  },
+  {
+    "id": 28,
     "name": "FM Računovodstvo",
     "email": "fm@fm-racunovodstvo.hr",
     "websiteUrl": "https://fm-racunovodstvo.hr/",
@@ -296,11 +332,143 @@
     "phone": "+385976615972",
     "logo": "https://fm-racunovodstvo.hr/wp-content/uploads/elementor/thumbs/logo-w2-ro285vztl73qh624c8nxm0o6rg9tep2t4fo4q7vvgg.png",
     "city": "Slavonski Brod",
-    "description": "Računovodstvena podrška za obrte, paušalce, mikro trgovačka društva, startupove i neprofitne organizacije. Online za klijente iz cijele Hrvatske.",
+    "description": "Računovodstvena podrška za obrte, paušalce, mikro društva i startupove. Online za cijelu Hrvatsku.",
     "type": "accountant"
   },
   {
-    "id": 26,
+    "id": 29,
+    "name": "Knjigovodstvo AS",
+    "email": null,
+    "websiteUrl": "https://www.knjigovodstvoas.hr/",
+    "facebookUrl": null,
+    "phone": "020494023",
+    "logo": null,
+    "city": "Dubrovnik",
+    "description": "Knjigovodstvene usluge za paušalne obrtnike i druge poduzetnike.",
+    "type": "accountant"
+  },
+  {
+    "id": 30,
+    "name": "PROKAPITAL",
+    "email": "info@prokapital.hr",
+    "websiteUrl": "https://www.prokapital.hr/",
+    "facebookUrl": null,
+    "phone": "051227688",
+    "logo": "https://www.prokapital.hr/wp-content/uploads/2020/06/logo-mali.webp",
+    "city": "Rijeka",
+    "description": "Knjigovodstvene, računovodstvene i poslovne usluge za poduzetnike i obrtnike.",
+    "type": "accountant"
+  },
+  {
+    "id": 31,
+    "name": "ZORA d.o.o.",
+    "email": "obrad@zora.hr",
+    "websiteUrl": "https://www.zora.hr/",
+    "facebookUrl": null,
+    "phone": "+385917662327",
+    "logo": "https://static.wixstatic.com/media/566974_95d5b5f2b76e41f9873784fc87df3938~mv2.jpg",
+    "city": "Čavle",
+    "description": "Računovodstvene usluge za obrte i slobodna zanimanja.",
+    "type": "accountant"
+  },
+  {
+    "id": 32,
+    "name": "EtnaSoft d.o.o.",
+    "email": "info@etnasoft.hr",
+    "websiteUrl": "https://www.etnasoft.hr/",
+    "facebookUrl": null,
+    "phone": "+38521544544",
+    "logo": null,
+    "city": "Split",
+    "description": "Računovodstvene usluge za obrte, udruge i fizičke osobe.",
+    "type": "accountant"
+  },
+  {
+    "id": 33,
+    "name": "TT Ekonom",
+    "email": "info@ttekonom.hr",
+    "websiteUrl": "https://racunovodstvo-knjigovodstveniservis-ttekonom.hr/",
+    "facebookUrl": null,
+    "phone": "+385915475737",
+    "logo": "https://racunovodstvo-knjigovodstveniservis-ttekonom.hr/wp-content/uploads/2024/11/TT-EKONOM_logo-e1732036267127.png",
+    "city": "Split / Sinj",
+    "description": "Računovodstveni servis za društva, obrte, slobodna zanimanja i neprofitne organizacije.",
+    "type": "accountant"
+  },
+  {
+    "id": 34,
+    "name": "Solver d.o.o.",
+    "email": "info@solver.hr",
+    "websiteUrl": "https://solver.hr/",
+    "facebookUrl": null,
+    "phone": "+385914444915",
+    "logo": "https://solver.hr/assets/solver-s.svg",
+    "city": "Kaštel Gomilica",
+    "description": "Računovodstvene usluge za poduzetnike i obrtnike uz digitalno poslovanje.",
+    "type": "accountant"
+  },
+  {
+    "id": 35,
+    "name": "Kimao knjigovodstvo",
+    "email": "info@kimao.hr",
+    "websiteUrl": "https://www.kimao.hr/",
+    "facebookUrl": null,
+    "phone": "+385992228838",
+    "logo": "https://static.wixstatic.com/media/81462c_2a28eb6d92104578b8202fe750774e72~mv2.png/v1/crop/x_0,y_0,w_988,h_333/fill/w_439,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo2.png",
+    "city": "Zadar",
+    "description": "Knjigovodstvene usluge za paušalce, obrte i slobodna zanimanja.",
+    "type": "accountant"
+  },
+  {
+    "id": 36,
+    "name": "Terra računovodstvo",
+    "email": "info@racunovodstvoterra.hr",
+    "websiteUrl": "https://racunovodstvoterra.hr/",
+    "facebookUrl": null,
+    "phone": "051338618",
+    "logo": null,
+    "city": "Rijeka",
+    "description": "Računovodstvene i knjigovodstvene usluge. Moguća online suradnja.",
+    "type": "accountant"
+  },
+  {
+    "id": 37,
+    "name": "Ka Libra",
+    "email": "ka_libra@yahoo.com",
+    "websiteUrl": "https://kalibra.hr/",
+    "facebookUrl": null,
+    "phone": "+385981966461",
+    "logo": "https://kalibra.hr/wp-content/uploads/2025/04/cropped-logo-512-300x300.png",
+    "city": "Osijek",
+    "description": "Računovodstvene i knjigovodstvene usluge.",
+    "type": "accountant"
+  },
+  {
+    "id": 38,
+    "name": "Ured Plus d.o.o.",
+    "email": "info@uredplus.hr",
+    "websiteUrl": "https://uredplus.hr/",
+    "facebookUrl": null,
+    "phone": "042421400",
+    "logo": "https://uredplus.hr/media/images/white-logo.svg",
+    "city": "Varaždin",
+    "description": "Računovodstvene usluge za poduzeća, obrte i samostalne djelatnosti.",
+    "type": "accountant"
+  },
+  {
+    "id": 39,
+    "name": "CONTO PLUS",
+    "email": "info@conto-plus.hr",
+    "websiteUrl": "https://www.conto-plus.hr/",
+    "facebookUrl": null,
+    "phone": "042211060",
+    "logo": null,
+    "city": "Varaždin",
+    "description": "Računovodstvene usluge za poduzetnike i obrtnike.",
+    "type": "accountant"
+  },
+  {
+    "id": 40,
     "name": "Knjigovodstveni biro Tina",
     "email": "info@biro-tina.hr",
     "websiteUrl": "https://www.biro-tina.hr/",
@@ -309,6 +477,162 @@
     "logo": "https://www.biro-tina.hr/images/logo-biro-tina-small.png",
     "city": "Varaždin",
     "description": "Vođenje poslovnih knjiga za poduzeća, obrte i samostalne djelatnosti. Dostupno i online.",
+    "type": "accountant"
+  },
+  {
+    "id": 41,
+    "name": "Knjižilica",
+    "email": "knjizilica@knjizilica.hr",
+    "websiteUrl": "https://knjizilica.hr/",
+    "facebookUrl": null,
+    "phone": "+38598245521",
+    "logo": "https://knjizilica.hr/wp-content/uploads/2021/11/Full_Logo.png",
+    "city": "Varaždin",
+    "description": "Knjigovodstvene i računovodstvene usluge.",
+    "type": "accountant"
+  },
+  {
+    "id": 42,
+    "name": "Riziko j.d.o.o.",
+    "email": "knjigovodstvo@riziko.hr",
+    "websiteUrl": "https://riziko.hr/",
+    "facebookUrl": null,
+    "phone": "0953902345",
+    "logo": "https://riziko.hr/wp-content/uploads/2023/08/43206C85-75D0-4EA8-8EF2-B0FF031F73A9-1-scaled.jpg",
+    "city": "Varaždin",
+    "description": "Knjigovodstvo za poduzeća, obrte i samostalne djelatnosti.",
+    "type": "accountant"
+  },
+  {
+    "id": 43,
+    "name": "VERS-KONTO",
+    "email": "info@vers-konto.hr",
+    "websiteUrl": "https://vers-konto.hr/",
+    "facebookUrl": null,
+    "phone": "+38598269087",
+    "logo": "https://vers-konto.hr/og-image.jpg",
+    "city": "Vinkovci / Vukovar",
+    "description": "Računovodstvene usluge s posebnim uslugama za paušalne obrte.",
+    "type": "accountant"
+  },
+  {
+    "id": 44,
+    "name": "Knjigovodstveni servis Liber",
+    "email": "drazen@knjigovodstvo-liber.com",
+    "websiteUrl": "https://www.knjigovodstvo-liber.com/",
+    "facebookUrl": null,
+    "phone": "+385993998331",
+    "logo": "https://www.knjigovodstvo-liber.com/opengraph-image?c786197ef45d9727",
+    "city": "Virovitica",
+    "description": "Knjigovodstvo za paušalne obrte, obrte, d.o.o., j.d.o.o. i OPG-ove. Dostupno online za cijelu Hrvatsku.",
+    "type": "accountant"
+  },
+  {
+    "id": 45,
+    "name": "Borlina",
+    "email": null,
+    "websiteUrl": "https://www.borlina.hr/",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": "https://www.borlina.hr/gallery_gen/93766d0f0f027b5ad0204d4a64931ee0_100x88_fit.png",
+    "city": "Zagreb",
+    "description": "Knjigovodstveni servis u oblaku s posebnim paketom za paušalne obrte.",
+    "type": "accountant"
+  },
+  {
+    "id": 46,
+    "name": "OKP d.o.o.",
+    "email": "info@okp.hr",
+    "websiteUrl": "https://okp.hr/",
+    "facebookUrl": null,
+    "phone": "+385958629729",
+    "logo": "https://okp.hr/wp-content/uploads/2025/03/logo-okp.png",
+    "city": "Zagreb",
+    "description": "Računovodstvene usluge, uključujući usluge za paušalne obrte.",
+    "type": "accountant"
+  },
+  {
+    "id": 47,
+    "name": "Data Smart",
+    "email": "datasmart@datasmart.hr",
+    "websiteUrl": "https://www.datasmart.hr/",
+    "facebookUrl": null,
+    "phone": "0992202814",
+    "logo": "https://www.datasmart.hr/wp-content/uploads/knjigovodstveni-servis-1.png",
+    "city": "Zagreb",
+    "description": "Online računovodstvo za paušalne obrte i druge poduzetnike.",
+    "type": "accountant"
+  },
+  {
+    "id": 48,
+    "name": "Aura Consulting",
+    "email": "info@auraconsulting.hr",
+    "websiteUrl": "https://auraconsulting.hr/",
+    "facebookUrl": null,
+    "phone": "0981382346",
+    "logo": "https://auraconsulting.hr/wp-content/uploads/2019/01/aura-logo-3.png",
+    "city": "Zagreb",
+    "description": "Online računovodstvene usluge za paušalne obrte i poduzetnike.",
+    "type": "accountant"
+  },
+  {
+    "id": 49,
+    "name": "Opted d.o.o.",
+    "email": "info@opted.hr",
+    "websiteUrl": "https://www.opted.hr/",
+    "facebookUrl": null,
+    "phone": "+38521339959",
+    "logo": "https://www.opted.hr/wp-content/uploads/2019/04/Opted_logo_main.png",
+    "city": "Split",
+    "description": "Računovodstvene usluge za obrte i slobodna zanimanja.",
+    "type": "accountant"
+  },
+  {
+    "id": 50,
+    "name": "ROIS-Zagreb d.o.o.",
+    "email": null,
+    "websiteUrl": "https://roiszagreb.hr/",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": "https://roiszagreb.hr/wp-content/uploads/2025/01/cropped-Adresa-ureda-270x270.png",
+    "city": "Zagreb",
+    "description": "Računovodstvo za paušalne obrte, obrte i slobodna zanimanja. Paket za paušalni obrt od 70 EUR mjesečno.",
+    "type": "accountant"
+  },
+  {
+    "id": 51,
+    "name": "Knjigovodstvo Vranić",
+    "email": null,
+    "websiteUrl": "https://knjigovodstvo-vranic.hr/",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": "https://knjigovodstvo-vranic.hr/wp-content/uploads/2026/01/Vranic-logo-1.png",
+    "city": "Hrvatska Dubica",
+    "description": "Mali knjigovodstveni servis specijaliziran za paušalne obrte i neprofitne udruge.",
+    "type": "accountant"
+  },
+  {
+    "id": 52,
+    "name": "Abacus — Knjigovodstvo j.d.o.o.",
+    "email": null,
+    "websiteUrl": "https://abacusknjigovodstvo.hr/",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": null,
+    "city": null,
+    "description": "Knjigovodstvene usluge za paušalne obrte, s paketom od 50 EUR mjesečno.",
+    "type": "accountant"
+  },
+  {
+    "id": 53,
+    "name": "VIA DEI j.d.o.o.",
+    "email": null,
+    "websiteUrl": "https://viadei.hr/",
+    "facebookUrl": null,
+    "phone": null,
+    "logo": "https://viadei.hr/wp-content/uploads/2026/07/cropped-PremiumVDlogo.png",
+    "city": null,
+    "description": "Računovodstvene i knjigovodstvene usluge, uključujući paket za paušalne obrte.",
     "type": "accountant"
   }
 ]
