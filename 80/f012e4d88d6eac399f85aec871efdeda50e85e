@@ -1,0 +1,14 @@
+documents/documents.json
+  h_df12c230a9601a 4-5,10,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "80f012e4d88d6eac399f85aec871efdeda50e85e",
+  "prompts": {},
+  "humans": {
+    "h_df12c230a9601a": {
+      "author": "Danijel Vincijanovic <danijel.vincijanovic@gmail.com>"
+    }
+  }
+}
