@@ -1,9 +1,15 @@
 {
   "documents": [
+    
     {
-      "name": "Pravilnik o vezanim i povlaštenim obrtima",
-      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_148_2441.html",
-      "category": "other"
+      "name": "Facebook grupa - Paušalni obrtnici",
+      "url": "https://www.facebook.com/groups/130822167300068",
+      "category": "starters"
+    },
+    {
+      "name": "NKD s objašnjenjima",
+      "url": "https://web.dzs.hr/App/NKD_Browser/assets/docs/NKD%202025_struktura_i_objasnjenja.pdf",
+      "category": "starters"
     },
     {
       "name": "Uputa o popunjavanju PO-SD i PO-SD-Z obrasca",
@@ -16,9 +22,9 @@
       "category": "other"
     },
     {
-      "name": "NKD s objašnjenjima",
-      "url": "https://web.dzs.hr/App/NKD_Browser/assets/docs/NKD%202025_struktura_i_objasnjenja.pdf",
-      "category": "starters"
+      "name": "Pravilnik o vezanim i povlaštenim obrtima",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_148_2441.html",
+      "category": "other"
     }
   ]
 }
