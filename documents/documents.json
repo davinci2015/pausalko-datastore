@@ -1,18 +1,13 @@
 {
   "documents": [
     {
-      "name": "Obrt uz paušalno oporezivanje",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/obrt_uz_pausalno_oporezivanje.pdf",
-      "category": "starters"
-    },
-    {
-      "name": "Popis vezanih i povlaštenih obrta",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/popis_vezanih_i_povlastenih_obrta.pdf",
+      "name": "Pravilnik o vezanim i povlaštenim obrtima",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_148_2441.html",
       "category": "other"
     },
     {
       "name": "Uputa o popunjavanju PO-SD i PO-SD-Z obrasca",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/uputa_o_utvrdivanju_godisnjeg_poreza_i_prireza.pdf",
+      "url": "https://plaviured.hr/vodici/kako-popuniti-i-poslati-po-sd-obrazac",
       "category": "instructions"
     },
     {
@@ -22,7 +17,7 @@
     },
     {
       "name": "NKD s objašnjenjima",
-      "url": "https://github.com/davinci2015/pausalko-datastore/raw/main/documents/files/nkd2007_s_objasnjenjima.pdf",
+      "url": "https://web.dzs.hr/App/NKD_Browser/assets/docs/NKD%202025_struktura_i_objasnjenja.pdf",
       "category": "starters"
     }
   ]
